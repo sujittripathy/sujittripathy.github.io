@@ -6,6 +6,7 @@
     <description>Recent content on Sujit Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&amp;copy&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sujittripathy.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +25,7 @@
     <item>
       <title>Managing Jupyter Notebooks on Cloud</title>
       <link>https://sujittripathy.github.io/post/jupyter-notebook-on-cloud/</link>
-      <pubDate>Sat, 10 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://sujittripathy.github.io/post/jupyter-notebook-on-cloud/</guid>
       <description>Collaborative coding is one of the key component to build better software. Open source software like GitHub, is a community of 25 million members maintains their code and projects on the cloud.
