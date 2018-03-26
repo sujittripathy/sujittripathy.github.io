@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sujit Tripathy</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Sujit Tripathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feature flag integration with Launch Darkly</title>
+      <link>https://example.com/post/feature-flag-with-launchdarkly/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/feature-flag-with-launchdarkly/</guid>
+      <description>In this post I will discuss on how to integrate feature flag with Launch Darkly.
+ String name = &amp;quot;hello&amp;quot;;  </description>
+    </item>
+    
+  </channel>
+</rss>
