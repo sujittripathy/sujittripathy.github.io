@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sujit Tripathy</title>
+    <title>SUJIT TRIPATHY</title>
     <link>https://sujittripathy.github.io/</link>
-    <description>Recent content on Sujit Tripathy</description>
+    <description>Recent content on SUJIT TRIPATHY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&amp;copy&lt;/a&gt; 2018</copyright>
@@ -23,16 +23,6 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://sujittripathy.github.io/main/about-me/</link>
-      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://sujittripathy.github.io/main/about-me/</guid>
-      <description>Sujit is an experienced software development professional played multiple roles in application and product development. Sujit has more than 12 years of experience in coding, designing and architecting solutions, leading and mentoring development teams across geographies. Sujit architected, design and developed reliable backend systems by using Core Java, Spring framework, REST API and other open source software technologies ecosystem in Service Oriented and Micro Services Architecture.
-Sujit is a continuous learner and having the passion (also curious) for learning latest technologies and work on the personal projects to apply his learning.</description>
-    </item>
-    
-    <item>
       <title>Managing Jupyter Notebooks on Cloud</title>
       <link>https://sujittripathy.github.io/post/jupyter-notebook-on-cloud/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
@@ -40,6 +30,16 @@ Sujit is a continuous learner and having the passion (also curious) for learning
       <guid>https://sujittripathy.github.io/post/jupyter-notebook-on-cloud/</guid>
       <description>Collaborative coding is one of the key component to build better software. Open source software like GitHub, is a community of 25 million members maintains their code and projects on the cloud.
 The question is - How can we manage our Data Science projects on the cloud, so that we can execute anywhere, anytime and can support cloning, sharing etc.. Jupyter notebook (previously iPython Notebook) is a popular open-source platform for doing Data Science, however for the local development the complete Data Science package including Jupyter can be downloaded from Anaconda distribution, which is local development.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sujittripathy.github.io/main/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/main/about-me/</guid>
+      <description>Sujit is an experienced software development professional played multiple roles in application and product development. Sujit has more than 12 years of experience in coding, designing and architecting solutions, leading and mentoring development teams across geographies. Sujit architected, design and developed reliable backend systems by using Core Java, Spring framework, REST API and other open source software technologies ecosystem in Service Oriented and Micro Services Architecture.
+Sujit is a continuous learner and having the passion (also curious) for learning latest technologies and work on the personal projects to apply his learning.</description>
     </item>
     
   </channel>
