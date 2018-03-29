@@ -7,19 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&amp;copy&lt;/a&gt; 2018</copyright>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sujittripathy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Feature flag integration with Launch Darkly</title>
-      <link>https://sujittripathy.github.io/post/feature-flag-with-launchdarkly/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Deploying Spring Boot Application to PCF (Pivotal Cloud Foundry)</title>
+      <link>https://sujittripathy.github.io/post/deploying-springboot-pcf/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sujittripathy.github.io/post/feature-flag-with-launchdarkly/</guid>
-      <description>In this post I will discuss on how to integrate feature flag with Launch Darkly.
- String name = &amp;quot;hello&amp;quot;;  </description>
+      <guid>https://sujittripathy.github.io/post/deploying-springboot-pcf/</guid>
+      <description>PaaS (Platform as a Service) is changing the way of how we build production ready software in a much faster and simpler way. Pivotal Cloud Foundry (PCF) is a major commercial version of open source Cloud Foundry. As part of this post, I have take a sample spring boot application and deploying the same to PCF via CLI. The demo application has two REST api end point /addTask and /fetchTasks for adding a new task to ToDo and fetch all the ToDo tasks.</description>
     </item>
     
     <item>
