@@ -22,6 +22,12 @@
   </url>
   
   <url>
+    <loc>https://sujittripathy.github.io/tags/cloud-foundry/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sujittripathy.github.io/tags/cloud-native/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -74,7 +80,7 @@
   </url>
   
   <url>
-    <loc>https://sujittripathy.github.io/tags/spring-pcf/</loc>
+    <loc>https://sujittripathy.github.io/tags/spring-boot/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

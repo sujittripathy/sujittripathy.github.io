@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Cloud Foundry</title>
+      <link>https://sujittripathy.github.io/tags/cloud-foundry/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/tags/cloud-foundry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloud Native</title>
       <link>https://sujittripathy.github.io/tags/cloud-native/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
@@ -40,11 +49,11 @@
     </item>
     
     <item>
-      <title>Spring Pcf</title>
-      <link>https://sujittripathy.github.io/tags/spring-pcf/</link>
+      <title>Spring Boot</title>
+      <link>https://sujittripathy.github.io/tags/spring-boot/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sujittripathy.github.io/tags/spring-pcf/</guid>
+      <guid>https://sujittripathy.github.io/tags/spring-boot/</guid>
       <description></description>
     </item>
     
