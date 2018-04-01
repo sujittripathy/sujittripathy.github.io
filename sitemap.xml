@@ -22,6 +22,36 @@
   </url>
   
   <url>
+    <loc>https://sujittripathy.github.io/tags/cloud-native/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sujittripathy.github.io/categories/cloud-native/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sujittripathy.github.io/tags/data-science/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sujittripathy.github.io/categories/data-science/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sujittripathy.github.io/tags/jupyter-notebook/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sujittripathy.github.io/categories/main_menu/</loc>
     <priority>0</priority>
   </url>
@@ -44,7 +74,14 @@
   </url>
   
   <url>
+    <loc>https://sujittripathy.github.io/tags/spring-pcf/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sujittripathy.github.io/tags/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

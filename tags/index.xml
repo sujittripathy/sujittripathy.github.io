@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&amp;copy&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sujittripathy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud Native</title>
+      <link>https://sujittripathy.github.io/tags/cloud-native/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://sujittripathy.github.io/tags/data-science/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://sujittripathy.github.io/tags/jupyter-notebook/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Pcf</title>
+      <link>https://sujittripathy.github.io/tags/spring-pcf/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujittripathy.github.io/tags/spring-pcf/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
